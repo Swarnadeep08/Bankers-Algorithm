@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638002167 source:d:\c files\bankers_safe_seq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
